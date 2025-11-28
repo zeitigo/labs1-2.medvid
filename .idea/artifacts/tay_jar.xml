@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tay_jar</output-path>
+    <root id="archive" name="tay.jar">
+      <element id="module-output" name="tay" />
+      <element id="directory" name="src" />
+      <element id="directory" name="javadoc" />
+    </root>
+  </artifact>
+</component>
